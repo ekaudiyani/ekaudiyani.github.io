@@ -45,7 +45,7 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
-      - name: Ensure bundler is installed
+      - name: Install Bundler
         run: gem install bundler
 
       - name: Install dependencies
