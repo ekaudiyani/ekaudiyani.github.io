@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<p align="center">
-  <img src="/assets/img/WhatsApp%20Image%202025-07-26%20at%2019.02.06.jpeg" width="300" alt="Profile Picture">
-</p>
+![My Profile Picture](/assets/img/WhatsApp%20Image%202025-07-26%20at%2019.02.06.jpeg)
 
 👋 Hi There, Future Women Leaders!
 
