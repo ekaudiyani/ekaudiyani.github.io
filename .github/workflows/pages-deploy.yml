@@ -40,10 +40,11 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Setup Ruby
+        id: ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2
-          bundler-cache: true
+          bundler-cache: false
 
       - name: Install Bundler
         run: gem install bundler
