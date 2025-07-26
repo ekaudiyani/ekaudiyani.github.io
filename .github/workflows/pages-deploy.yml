@@ -42,8 +42,11 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3
+          ruby-version: 3.1
           bundler-cache: true
+
+      - name: Ensure bundler is installed
+        run: gem install bundler
 
       - name: Install dependencies
         run: bundle install
