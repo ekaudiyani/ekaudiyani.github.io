@@ -77,6 +77,7 @@ Your current balance is shown right in the app!
 
 
 
+# <span style="color: var(--text-accent); font-weight:bold;">Why You Should Download the Sydney Uni App</span>  
 
 
 
