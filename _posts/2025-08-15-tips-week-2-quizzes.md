@@ -80,7 +80,8 @@ Your current balance is shown right in the app!
 
 # <span style="color: var(--text-accent); font-weight:bold;">Calling All Postgraduate Students – Join SUPRA Volunteer Team!</span>  
 If you're a postgraduate student, here’s an exciting opportunity to get involved in campus life:  
-Join **the SUPRA Volunteer Team for Semester 2, 2025**!
+Join **the SUPRA Volunteer Team for Semester 2, 2025**!  
+<img src="/assets/img/supra.jpeg" alt="supra" width="60%">    
 In my opinion, this is a great way to:  
 - Gain valuable organisational and leadership experience.  
 - Meet new friends and expand your network.  
@@ -91,7 +92,19 @@ This could be a meaningful and fun part of your postgraduate journey! ❤️
 
 
 
+# <span style="color: var(--text-accent); font-weight:bold;">WiE Buddy Program – Coffee Catchup Invitation!</span>  
+Check your inbox, you should have received an invitation for our WiE Buddy Coffee Catchup happening on:  
+🗓️ **Thursday, 28 August 2025**  
+🕚 11:00 AM – 1:00 PM  
+📍 Ralph’s Café (on campus!)  
+If you’re free during that time, I’d love to see you there!  
+It’s a great chance to relax, chat, and connect with other students    
 
-#tentang library  
-#tentang kesempatan join supra hingga tanggal 22  
-#jangan lupa menggunakan voucher kopimu  
+
+And don’t forget to use the coffee voucher I gave you earlier ❤️❤️❤️  
+According to the organisers, it’s valid until the end of this semester, so enjoy your well-deserved treat! ☕💛
+
+
+Remember, settling into a new semester or even a new country isn’t always easy,  
+but you’re doing better than you think 💪🏻💪🏻💪🏻  
+We’re all in this together. Let’s make it count! 🚀  
