@@ -5,7 +5,7 @@ categories: [Tips]
 tags: [Tips]
 ---
 
-Hey girls! It’s already Week 2, hope you're starting to find your rhythm and enjoy your classes this semester ❤️❤️❤️
+Hey girls! It’s already Week 2, hope you're starting to find your rhythm and enjoy your classes this semester ❤️❤️❤️  
 This month, I’d love to share a few things that might be helpful as you continue your journey here in Sydney, here we go! 🥳
 
 # <span style="color: var(--text-accent); font-weight:bold;">Quizzes Prep Tips</span>    
@@ -37,14 +37,14 @@ I’ve personally used the Service Portal several times, like when I had questio
 
 
 # <span style="color: var(--text-accent); font-weight:bold;">Why You Should Download the Sydney Uni App</span>  
-<img src="/assets/img/usydapp.jpeg" alt="usydapp" width="20%">    
+<img src="/assets/img/usydapp.jpeg" alt="usydapp" width="50%">    
 The Sydney Uni app is a must-have! It keeps everything about your uni life in one place, from class schedules to campus tools.  
 Here’s what you can do with it:  
 
 ## <span style="color: var(--text-accent); font-weight:bold;">1. Use Your Digital Library Borrower Card</span>  
 You can borrow physical books from the library using the digital Library Borrower Card in the app.  
 Here’s how:
-- First, search for the book title on the [University Library website](https://www.library.sydney.edu.au)    
+- First, search for the book title on the [University Library website](https://www.library.sydney.edu.au) (don't forget to login first!)     
 - If the book is only available in physical format, the website will tell you which library location and shelf number to visit  
 - Once you find the book, check it out by scanning your Library Card through the app  
 So convenient!  
