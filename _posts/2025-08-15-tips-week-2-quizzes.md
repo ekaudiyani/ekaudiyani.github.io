@@ -62,10 +62,12 @@ A great way to stay on track with your schedule.
 ## <span style="color: var(--text-accent); font-weight:bold;">4. Stay Updated with Notifications</span>  
 Tap the 🔔 icon in the top-right corner of the app. This is where important academic announcements appear.  
 Don’t forget to check it regularly so you don’t miss anything important!  
+<img src="/assets/img/notifications.jpeg" alt="notifications" width="50%">  
 
 ## <span style="color: var(--text-accent); font-weight:bold;">5. Use the Map Feature</span>  
 Lost? Need to find your tutorial room, building, or a specific place on campus?  
 The built-in campus map makes it easy to search for classroom numbers or landmarks.  
+<img src="/assets/img/map.jpeg" alt="map" width="50%">  
 
 ## <span style="color: var(--text-accent); font-weight:bold;">6. Check Your SydPay Balance for Printinge</span>  
 If you plan to use campus printers, you’ll need SydPay credit.  
