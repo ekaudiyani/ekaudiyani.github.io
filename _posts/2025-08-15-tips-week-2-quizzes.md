@@ -21,8 +21,10 @@ Calculator rules matter! If calculators are allowed, make sure yours meets the u
 Last semester, I got my sticker from the Business School building. But this semester, the info has been updated.  
 The stickers are available at:  
 📍Student Centre (Level 3, Jane Foss Russell Building, G02)  
-🗓️From Monday 1 September – Friday 26 September 2025  
+🗓️From **Monday 1 September – Friday 26 September 2025**  
 🔗 You can check the full details [here](https://www.sydney.edu.au/students/exams/calculator-dictionary.html).
+
+
 
 # <span style="color: var(--text-accent); font-weight:bold;">Not Sure Who to Ask? Here’s Where to Go!</span>  
 In the past, general questions outside your Unit of Study (UoS), like degree-related concerns or admin matters could be posted on Ed via the FEIT Student Portal.  
@@ -31,3 +33,53 @@ You can now direct your questions through [Engineering Student Advising Portal](
 Or you can also use [The University of Sydney Service Portal](https://sydneyuni.service-now.com/)  
 I’ve personally used the Service Portal several times, like when I had questions about an intensive unit and when I needed to update my Unique Student Identifier (USI).  
 💬 Based on my experience, their responses were fast and super helpful! ✨
+
+
+
+# <span style="color: var(--text-accent); font-weight:bold;">Why You Should Download the Sydney Uni App</span>  
+The Sydney Uni app is a must-have! It keeps everything about your uni life in one place, from class schedules to campus tools.  
+Here’s what you can do with it:  
+
+## <span style="color: var(--text-accent); font-weight:bold;">1. Use Your Digital Library Borrower Card</span>  
+You can borrow physical books from the library using the digital Library Borrower Card in the app.  
+Here’s how:
+- First, search for the book title on the [University Library website](https://www.library.sydney.edu.au)    
+- If the book is only available in physical format, the website will tell you which library location and shelf number to visit  
+- Once you find the book, check it out by scanning your Library Card through the app  
+So convenient!  
+
+## <span style="color: var(--text-accent); font-weight:bold;">2. Emergency Button</span>  
+In case of any emergency on campus, just tap the **Emergency menu** in the app and choose **Click to Dial**.  
+You can directly call Campus Security or the Emergency line. Quick and easy when time matters most.  
+
+## <span style="color: var(--text-accent); font-weight:bold;">3. Daily Study View</span>  
+In the Study section, you’ll find a daily snapshot of:  
+- Your upcoming classes  
+- Their exact locations  
+- A helpful countdown timer until your next class starts!  
+A great way to stay on track with your schedule.
+
+## <span style="color: var(--text-accent); font-weight:bold;">4. Stay Updated with Notifications</span>  
+Tap the 🔔 icon in the top-right corner of the app. This is where important academic announcements appear.  
+Don’t forget to check it regularly so you don’t miss anything important!  
+
+## <span style="color: var(--text-accent); font-weight:bold;">5. Use the Map Feature</span>  
+Lost? Need to find your tutorial room, building, or a specific place on campus?  
+The built-in campus map makes it easy to search for classroom numbers or landmarks.  
+
+## <span style="color: var(--text-accent); font-weight:bold;">6. Check Your SydPay Balance for Printinge</span>  
+If you plan to use campus printers, you’ll need SydPay credit.  
+Your current balance is shown right in the app!  
+🖨️ Learn more about printing on campus [here](https://www.sydney.edu.au/students/student-it/print-scan-copy.html).
+💰 Info on loading SydPay funds [here](https://www.sydney.edu.au/students/sydpay/loading-funds.html).  
+
+
+
+
+
+
+
+
+#tentang library  
+#tentang kesempatan join supra hingga tanggal 22  
+#jangan lupa menggunakan voucher kopimu  
