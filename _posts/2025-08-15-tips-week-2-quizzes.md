@@ -24,3 +24,10 @@ The stickers are available at:
 🗓️From Monday 1 September – Friday 26 September 2025  
 🔗 You can check the full details [here](https://www.sydney.edu.au/students/exams/calculator-dictionary.html).
 
+# <span style="color: var(--text-accent); font-weight:bold;">Not Sure Who to Ask? Here’s Where to Go!</span>  
+In the past, general questions outside your Unit of Study (UoS), like degree-related concerns or admin matters could be posted on Ed via the FEIT Student Portal.  
+However, starting **Monday, 21 July 2025**, the Ed Discussion board is no longer be monitored by staff for general queries.  
+You can now direct your questions through [Engineering Student Advising Portal](https://forms-records.sydney.edu.au/CMS/form058)  
+Or you can also use [The University of Sydney Service Portal](https://sydneyuni.service-now.com/)  
+I’ve personally used the Service Portal several times, like when I had questions about an intensive unit and when I needed to update my Unique Student Identifier (USI).  
+💬 Based on my experience, their responses were fast and super helpful! ✨
