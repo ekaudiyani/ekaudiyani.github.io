@@ -94,6 +94,7 @@ This could be a meaningful and fun part of your postgraduate journey! ❤️
 
 # <span style="color: var(--text-accent); font-weight:bold;">WiE Buddy Program – Coffee Catchup Invitation!</span>  
 Check your inbox, you should have received an invitation for our WiE Buddy Coffee Catchup happening on:  
+<img src="/assets/img/coffee.jpeg" alt="coffee" width="60%">    
 🗓️ **Thursday, 28 August 2025**  
 🕚 11:00 AM – 1:00 PM  
 📍 Ralph’s Café (on campus!)  
