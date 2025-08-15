@@ -37,6 +37,7 @@ I’ve personally used the Service Portal several times, like when I had questio
 
 
 # <span style="color: var(--text-accent); font-weight:bold;">Why You Should Download the Sydney Uni App</span>  
+<img src="/assets/img/usydapp.jpeg" alt="usydapp" width="20%">    
 The Sydney Uni app is a must-have! It keeps everything about your uni life in one place, from class schedules to campus tools.  
 Here’s what you can do with it:  
 
@@ -77,8 +78,16 @@ Your current balance is shown right in the app!
 
 
 
-# <span style="color: var(--text-accent); font-weight:bold;">Why You Should Download the Sydney Uni App</span>  
-
+# <span style="color: var(--text-accent); font-weight:bold;">Calling All Postgraduate Students – Join SUPRA Volunteer Team!</span>  
+If you're a postgraduate student, here’s an exciting opportunity to get involved in campus life:  
+Join **the SUPRA Volunteer Team for Semester 2, 2025**!
+In my opinion, this is a great way to:  
+- Gain valuable organisational and leadership experience.  
+- Meet new friends and expand your network.  
+- Get more involved in the uni community beyond classes.  
+Applications close on **Friday, 22 August 2025!**
+Check out the full details [here](https://www.instagram.com/p/DLoErNNzXa5/?igsh=ZjkxNWRiMXY2bGxo).
+This could be a meaningful and fun part of your postgraduate journey! ❤️
 
 
 
