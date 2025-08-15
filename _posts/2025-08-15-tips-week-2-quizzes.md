@@ -17,7 +17,7 @@ Check the Ed discussion board regularly. Sometimes your tutor or lecturer shares
 - Erasers, rulers, etc.  
 
 Calculator rules matter! If calculators are allowed, make sure yours meets the university’s approved model list and has the required sticker.  
-![Calculator](/assets/img/Calculator.jpeg)  
+<img src="/assets/img/Calculator.jpeg" alt="Calculator" width="50%">    
 Last semester, I got my sticker from the Business School building. But this semester, the info has been updated.  
 The stickers are available at:  
 📍Student Centre (Level 3, Jane Foss Russell Building, G02)  
